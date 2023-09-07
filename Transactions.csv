@@ -1,0 +1,293 @@
+Trade Date,Buyer,Seller,Compliance Instrument Type,Jurisdiction,Contact CBM,Client Type,Protocol,Vintage Start,Vintage End,Volume,Price,Price for MtM,P&L,Currency,Comment,Fee,Note,Contract Signed,Invoice received ,Delivery Date
+2016-11-15,ClearBlue,MDDELCC,CCA,Quebec,,Advisory,,16,16,1000.0,12.73,,-12730.0,USD,OTC ClearBlue,0.0,,,,2016-12-15
+2017-03-22,Kingston,MOECC,CCA,Ontario,,Advisory,,20,20,19000.0,18.07,,-343330.0,CAD,Auction,0.0,,,,2017-04-20
+2017-03-22,Union,MOECC,CCA,Ontario,,Advisory,,17,17,3798000.0,18.08,,-68667840.0,CAD,Auction,0.0,,,,2017-04-20
+2017-03-22,Union,MOECC,CCA,Ontario,,Advisory,,17,17,198525.0,18.08,,-3589332.0,CAD,Auction,0.0,,,,2017-04-20
+2017-03-22,Kingston,MOECC,CCA,Ontario,,Advisory,,17,17,52000.0,18.08,,-940160.0,CAD,Auction,0.0,,,,2017-04-20
+2017-03-23,ClearBlue,CBL Markets,CCA,Quebec,,Advisory,,16,16,-1000.0,13.54,,13540.0,USD,OTC ClearBlue,0.0,,,,2017-04-22
+2017-06-06,Kingston,MOECC,CCA,Ontario,,Advisory,,20,20,40000.0,18.3,,-732000.0,CAD,Auction,0.0,,,,2017-06-28
+2017-06-06,Kitchener,MOECC,CCA,Ontario,,Advisory,,20,20,213000.0,18.3,,-3897900.0,CAD,Auction,0.0,,,,2017-06-28
+2017-06-06,Union,MOECC,CCA,Ontario,,Advisory,,17,17,3283000.0,18.72,,-61457760.0,CAD,Auction,0.0,,,,2017-06-28
+2017-06-06,Union,MOECC,CCA,Ontario,,Advisory,,20,20,480000.0,18.3,,-8784000.0,CAD,Auction,0.0,,,,2017-06-28
+2017-06-06,Kingston,MOECC,CCA,Ontario,,Advisory,,17,17,30000.0,18.72,,-561600.0,CAD,Auction,0.0,,,,2017-06-28
+2017-06-06,Kitchener,MOECC,CCA,Ontario,,Advisory,,17,17,191000.0,18.72,,-3575520.0,CAD,Auction,0.0,,,,2017-06-28
+2017-07-20,Kruger,RBC,CCA,Quebec,,Advisory,,14,14,-45246.0,15.17,,,USD,OTC Direct,2262.0,,,,2017-07-20
+2017-07-20,Kruger,RBC,CCA,Quebec,,Advisory,,15,15,-4754.0,15.17,,,USD,OTC Direct,237.7,,,,2017-07-20
+2017-07-31,Kruger,Koch,CCA,Quebec,,Advisory,,15,15,-50000.0,15.1,,755000.0,USD,OTC Evo,2500.0,,,,2017-07-31
+2017-08-09,Kruger,Greenfield,CCA,Quebec,,Advisory,,15,15,-5000.0,14.9,,,USD,OTC Direct,250.0,,,,2017-08-09
+2017-09-06,Kingston,MOECC,CCA,Ontario,,Advisory,,20,20,53000.0,18.03,,-955590.0,CAD,Auction,0.0,,,,2017-09-28
+2017-09-06,Kitchener,MOECC,CCA,Ontario,,Advisory,,20,20,120000.0,18.03,,-2163600.0,CAD,Auction,0.0,,,,2017-09-28
+2017-09-06,Union,MOECC,CCA,Ontario,,Advisory,,20,20,145700.0,18.03,,-2626971.0,CAD,Auction,0.0,,,,2017-09-28
+2017-09-06,Union,MOECC,CCA,Ontario,,Advisory,,17,17,2912000.0,18.56,,-54046720.0,CAD,Auction,0.0,,,,2017-09-28
+2017-09-07,Algonquin,Vitol,CCA,California,,Advisory,,16,16,55000.0,15.33,,-843150.0,USD,OTC Evo,1650.0,,,,2017-09-07
+2017-10-31,Tembec,Koch,CCA,Quebec,,Advisory,,17,17,25000.0,15.25,,-381250.0,USD,OTC Evo,1250.0,,,,2017-10-31
+2017-11-15,Algonquin,Vitol,CCA,California,,Advisory,,17,17,25000.0,15.2,,-380000.0,USD,OTC Evo,750.0,,,,2017-11-15
+2017-11-20,Silicium Quebec,BP,CCA,California,,Advisory,,15,15,-21000.0,15.25,,320250.0,USD,OTC Evo,2099.0,,,,2018-01-15
+2017-11-20,Silicium Quebec,BP,CCO,California,,Advisory,TBD,TBD,TBD,40000.0,14.1,,-564000.0,USD,OTC Evo,2099.0,,,,2018-01-15
+2017-11-29,Kingston,MOECC,CCA,Ontario,,Advisory,,20,20,20000.0,18.89,,-377800.0,CAD,Auction,0.0,,,,2017-12-21
+2017-11-29,Kingston,MOECC,CCA,Ontario,,Advisory,,17,17,3000.0,17.38,,-52140.0,CAD,Auction,0.0,,,,2017-12-21
+2017-11-29,Kitchener,MOECC,CCA,Ontario,,Advisory,,17,17,251000.0,17.38,,-4362380.0,CAD,Auction,0.0,,,,2017-12-21
+2017-11-29,Union,MOECC,CCA,Ontario,,Advisory,,20,20,3500000.0,18.89,,-66115000.0,CAD,Auction,0.0,,,,2017-12-21
+2017-11-29,Union,MOECC,CCA,Ontario,,Advisory,,17,17,3000000.0,17.38,,-52140000.0,CAD,Auction,0.0,,,,2017-12-21
+2017-12-01,Mr Gas,Mercuria,CCA,California,,Advisory,,17,17,6910.0,15.25,,-105377.5,USD,OTC Evo,0.0,,,,2017-12-01
+2017-12-08,CertainTeed Corp,BP,CCA,California,,Advisory,,17,17,45000.0,15.0,,-675000.0,USD,OTC Evo,4500.0,,,,2018-02-28
+2017-12-08,CertainTeed Corp,BP,CCO,California,,Advisory,TBD,17,17,12391.0,13.9,,-172234.9,USD,OTC Evo,0.0,,,,2018-02-28
+2017-12-08,CertainTeed Gypsum Canada,BP,CCA,Quebec,,Advisory,,17,17,5000.0,15.0,,-75000.0,USD,OTC Evo,500.0,,,,2018-02-28
+2017-12-08,CertainTeed Gypsum Canada,BP,CCO,Quebec,,Advisory,TBD,17,17,6866.0,13.9,,-95437.4,USD,OTC Evo,0.0,,,,2018-02-28
+2018-02-21,Mr Gas,MOECC,CCA,Ontario,,Advisory,,18,18,4000.0,19.9,,-79600.0,CAD,Auction,0.0,,,,2018-03-20
+2018-02-21,Kingston,MOECC,CCA,Ontario,,Advisory,,16,16,3707.0,18.44,,-68357.08,CAD,Auction,0.0,,,,2018-03-20
+2018-02-21,Kingston,MOECC,CCA,Ontario,,Advisory,,18,18,20735.0,18.44,,-382353.4,CAD,Auction,0.0,,,,2018-03-20
+2018-02-21,Kitchener,MOECC,CCA,Ontario,,Advisory,,16,16,11292.0,18.44,,-208224.48,CAD,Auction,0.0,,,,2018-03-20
+2018-02-21,Kitchener,MOECC,CCA,Ontario,,Advisory,,18,18,63169.0,18.44,,-1164836.36,CAD,Auction,0.0,,,,2018-03-20
+2018-02-21,Union,MOECC,CCA,Ontario,,Advisory,,18,18,3500000.0,18.44,,-64540000.0,CAD,Auction,0.0,,,,2018-03-20
+2018-04-12,SouthernX,ACT,EUA,EU,,Trading,,,,1101.0,14.5,,,USD,OTC Direct,500.0,,,,2018-04-16
+2018-05-15,Kingston,MOECC,CCA,Ontario,,Advisory,,16,16,30000.0,18.72,,-561600.0,CAD,Auction,0.0,,,,2018-06-11
+2018-05-15,Kingston,MOECC,CCA,Ontario,,Advisory,,18,18,30000.0,18.72,,-561600.0,CAD,Auction,0.0,,,,2018-06-11
+2018-05-15,Kitchener,MOECC,CCA,Ontario,,Advisory,,16,16,130000.0,18.72,,-2433600.0,CAD,Auction,0.0,,,,2018-06-11
+2018-05-15,Kitchener,MOECC,CCA,Ontario,,Advisory,,18,18,130000.0,18.72,,-2433600.0,CAD,Auction,0.0,,,,2018-06-11
+2018-06-15,Kruger,BP,CCA,Quebec,,Advisory,,14,14,-57044.0,14.7,,838546.8,USD,OTC Evo,2852.0,,,,2018-07-30
+2018-06-15,Kruger,BP,CCA,Quebec,,Advisory,,16,16,-26305.0,14.65,,385368.25,USD,OTC Evo,1315.0,,,,2018-07-30
+2018-06-19,Kruger Product LP,ClearBlue,CCA,Quebec,,Advisory,,18,18,30000.0,16.88,,-506250.0,USD,OTC ClearBlue,0.0,,,,2018-10-15
+2018-06-19,Mercuria,ClearBlue,CCA,Quebec,,Advisory,,18,18,-30000.0,16.93,,507750.0,USD,OTC ClearBlue,0.0,,,,2018-10-15
+2018-06-27,Kruger,Mercuria,CCA,Quebec,,Advisory,,16,16,-25000.0,14.9,,,USD,OTC Direct,1250.0,,,,2018-07-30
+2018-08-07,Francis Fuels,Mercuria,CCA,Quebec,,Advisory,,17,17,19004.0,19.99,,,CAD,OTC Direct,1520.0,,,,2018-08-30
+2018-09-20,Arcelor Long Products LP,BP,CCA,California,,Advisory,,17,17,-255000.0,15.42,,,USD,OTC Direct,12146.0,,,,2018-10-01
+2018-09-20,Arcelor Long Products LP,BP,CCO,California,,Advisory,TBD,TBD,TBD,255000.0,14.55,,,USD,OTC Direct,12146.0,,,,2018-10-01
+2018-09-20,Arcelor Long Products LP,BP,CCO,California,,Advisory,TBD,TBD,TBD,95000.0,14.95,17.15,,USD,OTC Direct,22886.0,,,,2019-10-01
+2018-09-20,Arcelor Long Products LP,BP,CCO,California,,Advisory,TBD,TBD,TBD,85000.0,15.55,17.1,,USD,OTC Direct,14421.0,,,,2020-10-01
+2018-09-20,Arcelor Long Products LP,BP,CCO,California,,Advisory,TBD,TBD,TBD,85000.0,16.1,28.0,,USD,OTC Direct,110759.0,,,,2021-10-01
+2018-09-20,CRH,BP,CCA,California,,Advisory,,17,17,-171500.0,15.45,,,USD,OTC Direct,7052.0,,,,2018-10-01
+2018-09-20,CRH,BP,CCO,California,,Advisory,TBD,TBD,TBD,184000.0,14.75,,,USD,OTC Direct,7052.0,,,,2018-10-01
+2018-09-20,CRH,BP,CCO,California,,Advisory,TBD,TBD,TBD,55000.0,14.95,17.17,,USD,OTC Direct,13370.0,,,,2019-10-01
+2018-09-20,CRH,BP,CCO,California,,Advisory,TBD,TBD,TBD,55000.0,15.55,17.1,,USD,OTC Direct,9335.0,,,,2020-10-01
+2018-09-20,CRH,BP,CCO,California,,Advisory,TBD,TBD,TBD,55000.0,16.1,28.0,,USD,OTC Direct,71668.0,,,,2021-10-01
+2018-09-27,Conrad Miousse et Fils,ClearBlue,CCA,Quebec,,Advisory,,17,17,-622.0,20.4,,12688.8,CAD,OTC ClearBlue,1000.0,,,,2018-09-28
+2018-09-27,Propane Raymond,ClearBlue,CCA,Quebec,,Advisory,,17,17,-8455.0,20.5,,173327.5,CAD,OTC ClearBlue,845.5,,,,2018-09-28
+2018-09-27,"Société ferroviaire et portuaire de Pointe-Noire, s.e.c.",ClearBlue,CCA,Quebec,,Advisory,,17,17,-100.0,20.4,,2040.0,CAD,OTC ClearBlue,1000.0,,,,2018-09-28
+2018-09-27,4REFUEL CANADA LP,ClearBlue,CCA,Quebec,,Advisory,,17,17,-23170.0,20.4,,472668.0,CAD,OTC ClearBlue,2317.0,,,,2018-09-28
+2018-09-27,Silicium Quebec,ClearBlue,CCA,Quebec,,Advisory,,17,17,-4000.0,20.4,,81600.0,CAD,OTC ClearBlue,1000.0,,,,2018-09-28
+2018-09-27,Kruger Product LP,ClearBlue,CCA,Quebec,,Advisory,,17,17,36347.0,20.2,,-734209.4,CAD,OTC ClearBlue,0.0,,,,2018-09-28
+2018-09-27,Kruger Product LP,ClearBlue,CCA,Quebec,,Advisory,,18,18,35000.0,19.65,,-687750.0,CAD,OTC ClearBlue,0.0,,,,2018-10-15
+2018-09-27,Mercuria,ClearBlue,CCA,Quebec,,Advisory,,18,18,-35000.0,19.7,,689500.0,CAD,OTC ClearBlue,0.0,,,,2018-10-15
+2018-10-04,Arcelor Long Products LP,BP,CCA,California,,Advisory,,,,-54300.0,,28.0,,USD,OTC Direct,5430.0,,,,2018-10-15
+2018-10-04,Arcelor Long Products LP,BP,CCO,California,,Advisory,,,,85000.0,16.1,28.0,,USD,OTC Direct,94253.0,,,,2018-10-15
+2018-10-04,CRH,BP,CCO,California,,Advisory,,20,20,55000.0,16.1,28.0,,USD,OTC Direct,64501.0,,,,2018-10-15
+2018-10-04,CRH,BP,CCO,California,,Advisory,,19,19,55000.0,16.2,28.0,,USD,OTC Direct,63959.0,,,,2018-10-15
+2018-10-08,Kruger Product LP,ClearBlue,CCA,Quebec,,Advisory,,17,17,50000.0,19.8,,-990000.0,CAD,OTC ClearBlue,0.0,,,,2018-10-15
+2018-10-08,Mercuria,ClearBlue,CCA,Quebec,,Advisory,,17,17,-50000.0,19.85,,992500.0,CAD,OTC ClearBlue,0.0,,,,2018-10-15
+2018-10-18,Kruger Inc,ClearBlue,CCA,Quebec,,Advisory,,17,17,15000.0,15.37,,-230550.0,USD,OTC ClearBlue,0.0,,,,2018-10-25
+2018-10-18,Kruger Wayagamack LP,ClearBlue,CCA,Quebec,,Advisory,,17,17,40000.0,15.37,,-614800.0,USD,OTC ClearBlue,0.0,,,,2018-10-15
+2018-10-18,Vitol,ClearBlue,CCA,Quebec,,Advisory,,17,17,-55000.0,15.42,,848100.0,USD,OTC ClearBlue,0.0,,,,2018-10-15
+2018-10-24,Propane Plus,ClearBlue,CCA,Quebec,,Advisory,,18,18,5090.0,14.5,,-73805.0,USD,OTC ClearBlue,0.0,,,,2018-10-15
+2018-10-24,Mercuria,ClearBlue,CCA,Quebec,,Advisory,,18,18,-5090.0,14.5,,73805.0,USD,OTC ClearBlue,0.0,,,,2018-10-15
+2018-10-24,Propane Plus,ClearBlue,CCA,Quebec,,Advisory,,17,17,5278.0,15.5,,-81809.0,USD,OTC ClearBlue,2296.0,,,,2018-10-15
+2018-10-24,Mercuria,ClearBlue,CCA,Quebec,,Advisory,,17,17,-5278.0,15.5,,81809.0,USD,OTC ClearBlue,0.0,,,,2018-10-15
+2019-09-09,Arcelor Long Products LP,BP,CCO,California,,Advisory,TBD,TBD,TBD,10000.0,15.05,17.15,,USD,OTC Direct,2300.0,,,,2019-10-01
+2019-10-17,Pilot Travel Centers,Elbow River,CCA,California,,Advisory,,18,18,250000.0,17.23,,,USD,OTC Direct,12500.0,,,,2019-10-25
+2019-12-10,Dupont,Elbow River,CCA,Quebec,,Advisory,,18,18,30720.0,17.15,,,USD,OTC Direct,9000.0,,,,2019-12-18
+2020-02-27,Resolute,Capital Power,CCO,Quebec,,Advisory,,,,61000.0,15.25,17.87,,USD,OTC Direct,,,,,2020-03-30
+2020-03-05,Nova Chemicals,Capital Power,SC,Alberta,,Advisory,Conservation Cropping,14,14,-71908.0,26.5,,,CAD,OTC Direct,10000.0,,,,2020-03-30
+2020-05-08,CRH,BP,CCO,California,,Advisory,,20,20,32000.0,,28.0,,USD,OTC Direct,0.0,,,,2020-07-31
+2020-05-29,CertainTeed Corp,EDF,CCA,Quebec,,Advisory,,2017,2017,13292.0,16.5,,,USD,OTC Direct,1329.0,,,,2020-05-29
+2020-05-29,CertainTeed Corp,EDF,CCO,Quebec,,Advisory,2018 Offset U.S. Forest Projects CAFR5364-A,2018,2018,7694.0,14.0,16.77,,USD,OTC Direct,3197.0,,,,2020-05-29
+2020-05-29,CertainTeed Corp,EDF,CCA,California,,Advisory,,2018,2018,50318.0,16.5,,,USD,OTC Direct,5032.0,,,,2020-05-29
+2020-05-29,CertainTeed Corp,EDF,CCA,California,,Advisory,,2019,2019,60.0,16.5,,,USD,OTC Direct,6.0,,,,2020-05-29
+2020-05-29,CertainTeed Corp,EDF,CCO,California,,Advisory,2018 Offset U.S. Forest Projects CAFR5364-A,2018,2018,13687.0,14.0,16.77,,USD,OTC Direct,5687.0,,,,2020-05-29
+2020-07-30,NGL Supply,Elbow River,CCO,Quebec,JG,Advisory,Reforestation+ODS,TBD,TBD,40000.0,13.5,16.84,,USD,OTC Direct,14629.0,,,,2020-07-31
+2020-07-30,GEQ,Capital Power,CCO,Quebec,JG,Advisory,CAFR5315-A,TBD,TBD,45000.0,14.25,16.84,,USD,OTC Direct,12762.0,,,,2020-09-10
+2020-10-02,Lantic,Elbow River,CCO,California,JG,Advisory,,20,20,19000.0,13.25,17.15,,USD,OTC Direct,8114.0,,,,2020-10-02
+2020-10-26,Arcelor Long Products LP,BP,CCA,California,JG,Advisory,TBD,TBD,TBD,-85000.0,17.1,,,USD,OTC Direct,8500.0,,,,2019-10-01
+2021-02-02,McCain,EKI,GOO,India,GP,Advisory,Wind,20,20,6310.0,1.0,,,USD,OTC Direct,631.0,,,,2021-02-02
+2021-02-20,Sol Guyane,Varo,CEE,France,,Trading,Classique + Precaire,20,20,49000.0,8.0,,,EUR,OTC Direct,2450.0,,,,2021-03-31
+2021-02-20,Sol Antilles,Varo,CEE,France,,Trading,Classique + Precaire,20,20,798067.0,8.0,,,EUR,OTC Direct,39903.0,,,,2021-03-31
+2021-03-18,Dupont,Elbow River,CCO,California,,Advisory,,18,18,6218.0,13.15,17.95,,USD,OTC Direct,3268.0,,,,2021-03-25
+2021-03-18,Dupont,Elbow River,CCO,California,,Advisory,,19,19,64282.0,13.15,17.95,,USD,OTC Direct,22287.0,,,,2021-03-25
+2021-03-18,Dupont,Elbow River,CCA,California,,Advisory,,20,20,-115000.0,17.95,,,USD,OTC Direct,11500.0,,,,2021-03-25
+2021-04-23,"MacEwen Petroleum, Inc",Capital Power,CCO,California,JG,Advisory,,20,20,9500.0,13.4,17.94,,USD,OTC Direct,4723.0,,,,2021-04-30
+2021-05-01,Alouette,Capital Power,CCO,Quebec,JG,Advisory,,TBD,TBD,263669.0,13.05,17.91,,USD,OTC Direct,113950.0,,,,2021-04-01
+2021-05-01,Alouette,Capital Power,CCA,Quebec,JG,Advisory,,TBD,TBD,-263669.0,17.91,,,USD,OTC Direct,26367.0,,,,2021-04-01
+2021-05-01,Western,ACT,EUA,EU,,Trading,,,,1214.0,47.0,,,EUR,OTC Direct,5000.0,,,,2021-05-01
+2021-05-01,Aera,ClearBlue,VER,VCM,NG,Trading,VCS2307 (Solar Madagascar),2018,2018,5000.0,5.5,9.0,17500.0,EUR,OTC ClearBlue,0.0,,,,2021-05-01
+2021-06-07,CRH,BP,CCO,California,JG,Advisory,,20,20,11500.0,14.5,28.0,,USD,OTC Direct,15300.0,,,,2021-10-29
+2021-06-11,ARCELORMITTAL EXPLOITATION MINIÈRE CANADA S.E.N.C.,Shell,CCA,California,JG,Advisory,,,,-223700.0,,22.65,,USD,OTC Direct,22370.0,,,,2021-10-29
+2021-06-11,ARCELORMITTAL EXPLOITATION MINIÈRE CANADA S.E.N.C.,Shell,CCO,California,JG,Advisory,,,,223700.0,15.8,22.65,,USD,OTC Direct,106270.0,,,,2021-10-29
+2021-06-24,Greenfield,Elbow River,CCO,California,JG,Advisory,,21,21,7196.0,13.6,22.87,,USD,OTC Direct,7304.0,,,,2021-07-09
+2021-07-01,Francis Fuels,Elbow River,CCO,California,JG,Advisory,,21,21,1784.0,15.25,,,USD,OTC Direct,1000.0,,,,2021-07-29
+2021-07-20,Arcelor Coteau du Lac,Elbow River,CCA,California,JG,Advisory,,20,20,1000.0,23.4,,,USD,OTC ClearBlue BtB,0.0,,,,2021-07-20
+2021-07-27,Kronos,Elbow River,CCO,California,JG,Advisory,,21,21,43000.0,14.5,22.94,,USD,OTC Direct,39740.0,,,,2021-08-09
+2021-07-27,CertainTeed Corp,BP,CCA,California,JG,Advisory,,,,15000.0,23.1,,,USD,OTC Direct,1500.0,,,,2021-08-31
+2021-08-30,Ciment McInnis,Capital Power,CCA,California,JG,Advisory,,20,20,-120000.0,,20.09,,USD,OTC Direct,-12000.0,,,,2021-08-30
+2021-08-30,Ciment McInnis,Capital Power,CCO,California,JG,Advisory,,19,19,180000.0,13.9,20.09,,USD,OTC Direct,134005.0,,,,2021-08-30
+2021-09-01,Agnico,Elbow River,CCA,Quebec,JG,Advisory,,,,6270.0,16.68,,,USD,OTC ClearBlue BtB,627.0,,,,2021-09-01
+2021-09-01,Elbow River,ClearBlue,CCA,Quebec,JG,Advisory,,20,20,6500.0,24.0,,,USD,OTC ClearBlue,,,,,2021-09-01
+2021-09-01,Agnico,ClearBlue,CCA,Quebec,JG,Advisory,,20,20,-6444.0,24.1,,,USD,OTC ClearBlue,644.4,,,,2021-09-01
+2021-09-07,Darling,Elbow River,CCA,California,,Advisory,,20,20,2000.0,25.75,,,USD,OTC ClearBlue BtB,1000.0,,,,2021-09-20
+2021-09-13,ClearBlue,Respira,VER,VCM,,Trading,GS5343 (Water Malawi),2018,2018,40000.0,6.9,,-276000.0,USD,OTC ClearBlue BtB,0.0,,,,2021-09-13
+2021-09-13,ClearBlue,Respira,VER,VCM,,Trading,GS5343 (Water Malawi),2019,2019,10000.0,6.9,,-69000.0,USD,OTC ClearBlue BtB,0.0,,,,2021-09-13
+2021-09-14,Dupont,ACT,GOO,USA,GP,Advisory,Wind,20,20,70000.0,1.7,,21000.0,USD,OTC ClearBlue BtB,0.0,,,,2021-09-14
+2021-09-14,Dupont,ACT,GOO,USA,GP,Advisory,Wind,21,21,35000.0,2.5,,10500.0,USD,OTC ClearBlue BtB,0.0,,,,2022-04-01
+2021-09-15,Ciment Quebec,Capital Power,CCA,California,JG,Advisory,,,,-161300.0,,23.8,,USD,OTC Direct,16130.0,,,,2021-09-27
+2021-09-15,Ciment Quebec,Capital Power,CCO,California,JG,Advisory,,,,161300.0,16.25,23.8,,USD,OTC Direct,148275.0,,,,2021-09-28
+2021-09-15,Rayonier,BP,CCA,California,JG,Advisory,,20,20,-42700.0,,24.88,,USD,OTC Direct,0.0,,,,2021-10-29
+2021-09-15,Rayonier,BP,CCO,California,JG,Advisory,,20,20,42700.0,16.85,24.88,,USD,OTC Direct,46289.0,,,,2021-10-29
+2021-09-29,Nova Marine,ClearBlue,VER,VCM,NG,Ifchor,VCS2307 (Solar Madagascar),2018,2018,-94.0,8.0,9.0,-94.0,EUR,OTC ClearBlue,0.0,,,,2021-09-29
+2021-09-29,ClearBlue,ClearBlue,VER,VCM,NG,Ifchor,VCS2307 (Solar Madagascar),2018,2018,-50.0,0.0,9.0,-450.0,EUR,OTC ClearBlue,0.0,Clearblue own emissions,,,2021-09-29
+2021-09-29,ClearBlue,Climatepartner,VER,VCM,,Trading,GS5343 (Water Malawi),2018,2018,-40000.0,7.0,,280000.0,USD,OTC ClearBlue BtB,0.0,,,,2021-09-29
+2021-09-29,ClearBlue,Climatepartner,VER,VCM,,Trading,GS5343 (Water Malawi),2019,2019,-5000.0,7.0,,35000.0,USD,OTC ClearBlue BtB,0.0,,,,2021-09-29
+2021-10-04,LA CIE DE MATÉRIAUX DE CONSTRUCTION BP CANADA,Elbow River,CCO,California,JG,Advisory,,20,20,5000.0,16.95,30.0,,USD,OTC Direct,8809.0,,,,2021-10-22
+2021-10-05,McCain,ACT,GOO,Poland,GP,Advisory,Wind,22,22,22000.0,0.97,,,EUR,OTC Direct,235.4,,,,2021-12-31
+2021-11-15,Algoma,Graymont,SC,OBPS,AD,Advisory,,2020,2020,21242.0,20.0,,,CAD,OTC ClearBlue BtB,9304.0,,,,2021-12-15
+2021-11-20,Algoma,CF Industries,SC,OBPS,AD,Advisory,,2019/2020,2019/2020,91327.0,28.5,,,CAD,OTC ClearBlue BtB,26667.48,,,,2021-10-12
+2021-11-29,Climatepartner,ClearBlue,VER,VCM,,Trading,GS5343 (Water Malawi),2019,2019,-5000.0,10.74,,53675.0,USD,OTC ClearBlue BtB,0.0,,,,2021-11-29
+2021-12-03,Pampa,ClearBlue,CER,CDM,,,CDM7178 (CCGT Argentina),2013,2013,299051.0,1.85,,-553244.35,USD,OTC ClearBlue BtB,0.0,,,,2021-12-03
+2021-12-03,Climatepartner,ClearBlue,CER,CDM,,,CDM7178 (CCGT Argentina),2013,2013,-299051.0,2.0,,598102.0,USD,OTC ClearBlue BtB,0.0,,,,2021-12-03
+2021-12-28,Ezpada,ClearBlue,VER,VCM,GP,Ifchor,GS7312 (Nigeria Cookstove),2019,2019,10000.0,8.75,10.0,12500.0,EUR,OTC ClearBlue,0.0,,,,2022-01-01
+2022-01-18,Greenfield,Elbow River,CCO,California,JG,Advisory,CAR1036,21,21,14904.0,16.25,27.89,,USD,OTC Direct,26022.384,,Signed,Yes,2022-03-08
+2022-01-21,Pact,ClearBlue,VER,VCM,GP,Trading,GS7527 (Turkey Biogas),2018-2020,2018-2020,100000.0,7.9,8.0,,USD,OTC ClearBlue BtB,15000.0,,,,2022-04-30
+2022-01-21,Darling,Capital Power,CCA,Quebec,JG,Advisory,,2022,2022,9600.0,29.3,,,USD,OTC Direct,768.0,,Signed,Yes,2022-02-23
+2022-01-22,Lantic,Capital Power,CCO,California,JG,Advisory,"ACR537, CAR1246",21,21,18240.0,16.1,26.85,,USD,OTC Direct,29412.0,,Signed,Yes,2022-03-21
+2022-02-01,Decarb Connect,ClearBlue,VER,VCM,GP,Ifchor,GS7312 (Nigeria Cookstove),2019,2019,-1.0,16.25,10.0,6.25,EUR,OTC ClearBlue,0.0,"Partnership betweeen CBM and Decarb, no invoice/contract",,,2022-02-01
+2022-02-02,Canadian Malartic,Elbow River,CCO,California,JG,Advisory,CAR1124,21,21,5500.0,16.25,24.63,,USD,OTC Direct,6913.5,,Signed,Yes,2022-02-26
+2022-02-08,Crypto JG,ClearBlue,VER,VCM,JG,Trading,VCS2307 (Solar Madagascar),2018,2018,-2.0,0.0,9.0,-18.0,EUR,OTC ClearBlue,0.0,,,,2022-04-30
+2022-02-19,Pala,Agroempressa Forestal,VER,Verra,GP,Trading,VCS962 (Aforestation Uruguay),2014,2014,116000.0,13.5,,,USD,OTC Direct,23200.0,DEAL CANCELLED,,,2022-11-30
+2022-02-19,Pala,Agroempressa Forestal,VER,Verra,GP,Trading,VCS962 (Aforestation Uruguay),2016,2016,84000.0,16.01,,,USD,OTC Direct,16800.0,DEAL CANCELLED,,,2022-11-30
+2022-02-21,Nouveau Monde Graphite,ClearBlue,VER,VCM,JG,Advisory,VCS2307 (Solar Madagascar),2018,2018,-1600.0,11.0,9.0,3200.0,EUR,OTC ClearBlue,0.0,,,,2022-04-30
+2022-03-02,ACT,AB Panevezio Energija,EUA,EU ETS,GP,Trading,,,,-20000.0,62.0,61.43,,EUR,OTC ClearBlue BtB,,,MISSING,,2022-03-10
+2022-03-02,AB Panevezio Energija,ACT,EUA,EU ETS,GP,Trading,,,,20000.0,61.43,62.0,11400.0,EUR,OTC ClearBlue BtB,,,,YES,2022-03-10
+2022-03-09,CertainTeed Corp,Mercuria,CCA,Quebec,JG,Advisory,,2022,2022,77000.0,30.6,,,USD,OTC Direct,7700.0,,Signed,Yes,2022-05-31
+2022-03-27,Canadian Royalties,Elbow River,CCO,California,JG,Advisory,ACR280,2017,2017,17896.0,17.5,27.64,,USD,OTC Direct,22683.18,,Signed,Yes,2022-03-27
+2022-03-29,Canadian Royalties,Elbow River,CCO,California,JG,Advisory,CAR1293 +ACR355,2019-2021,2019-2021,30000.0,16.4,31.14,,USD,OTC Direct,55275.0,,Signed,Yes,2022-04-04
+2022-04-08,EKI,CFS,CER,CDM,GP,Trading,CDM8323 (CCGT India),2013-2020,2013-2020,118573.0,2.85,,,USD,OTC ClearBlue BtB,,,,,2022-04-12
+2022-04-08,CFS,EKI,CER,CDM,GP,Trading,CDM8323 (CCGT India),2013-2020,2013-2020,-118573.0,3.13,2.85,33200.44,USD,OTC ClearBlue BtB,,,Signed,,2022-04-12
+2022-04-11,EKI,CFS,CER,CDM,GP,Trading,CDM8323 (CCGT India),2013-2020,2013-2020,9269.0,2.85,,,USD,OTC ClearBlue BtB,,,,,2022-04-14
+2022-04-11,CFS,EKI,CER,CDM,GP,Trading,CDM8323 (CCGT India),2013-2020,2013-2020,-9269.0,3.13,2.85,2595.32,USD,OTC ClearBlue BtB,,,Signed ,,2022-04-14
+2022-04-15,NOVA Chemicals,CF Industries,SC,Federal OBPS,AD,Advisory,,2020,2020,62000.0,37.2,,,CAD,OTC Direct,12400.0,,,,2022-04-28
+2022-04-15,CF Industries,NOVA Chemicals,SC,Federal OBPS,AD,Advisory,,2020,2020,62000.0,37.2,,,CAD,OTC Direct,12400.0,,,,2022-04-28
+2022-04-15,Algoma,CF Industries,SC,Federal OBPS,AD,Advisory,,2020,2020,29166.0,36.8,,,CAD,OTC Direct,5833.2,,,,2022-04-28
+2022-04-15,CF Industries,Algoma,SC,Federal OBPS,AD,Advisory,,2020,2020,29166.0,36.8,,,CAD,OTC Direct,5833.2,,,,2022-04-28
+2022-04-22,CFS,Extract,VER,VCS,GP,Trading,VCS1522 (Hydro Cote Ivoire),2020,2020,-14200.0,6.15,,,USD,OTC ClearBlue BtB,,,,,2022-05-03
+2022-04-22,Extract,CFS,VER,VCS,GP,Trading,VCS1522 (Hydro Cote Ivoire),2020,2020,14200.0,7.0,6.15,12070.0,USD,OTC ClearBlue BtB,,,Signed,,2022-05-03
+2022-04-25,Western Global,ClearBlue,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-1102.0,84.31,84.31,0.0,EUR,OTC ClearBlue,5000.0,,Signed,,2022-04-28
+2022-04-25,ACT,ClearBlue,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,1500.0,84.31,84.31,0.0,EUR,OTC ClearBlue,,,,,2022-04-28
+2022-04-25,Cabot,Enbridge,SC,Federal OBPS,AD,Advisory,,"2020, 2021","2020, 2021",18048.0,37.8,,,CAD,OTC Direct,7219.2,,Signed,,2022-10-06
+2022-04-25,Enbridge,Cabot,SC,Federal OBPS,AD,Advisory,,"2020, 2021","2020, 2021",18048.0,37.8,,,CAD,OTC Direct,3609.6,,,,2022-10-06
+2022-04-27,FedEx Pilot,Clearblue,VER,ACR,NVB,Advisory,ACR736 (ODS USA),2022,2022,7500.0,17.0,,,USD,OTC ClearBlue BtB,3750.0,,Singed ,,2022-04-27
+2022-04-27,FedEx Pilot,Clearblue,VER,Verra,NVB,Advisory,VCS448 (Moses Lake OWD USA),2018,2018,7150.0,11.0,,,USD,OTC ClearBlue BtB,3575.0,,,,2022-04-27
+2022-05-16,Carbon Killer,ClearBlue,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-50.0,88.5,84.31,209.5,EUR,OTC ClearBlue,,,Signed,,2022-05-18
+2022-05-16,Pampa,ClimeCo,CER,CDM,GP,Offset,CDM7178 (CCGT Argentina),2014-2020,2014-2020,500000.0,2.45,,,USD,OTC ClearBlue BtB,,,SIgned,,2023-03-31
+2022-05-16,Climeco,Pampa,CER,CDM,GP,Offset,CDM7178 (CCGT Argentina),2014-2020,2014-2020,-500000.0,2.45,,122500.0,USD,OTC ClearBlue BtB,,,Signed ,,2023-03-31
+2022-05-19,AERA,Pala,VER,Verra,GP,Trading,VCS2540 (Cookstove Burundi),2020 - 2022,2020 - 2022,-100000.0,9.0,,,USD,OTC ClearBlue BtB,,,,,2022-11-30
+2022-05-19,Pala,Aera,VER,Verra,GP,Trading,VCS2540 (Cookstove Burundi),2020 - 2022,2020 - 2022,100000.0,9.35,9.0,35000.0,USD,OTC ClearBlue BtB,10000.0,,Signed,,2022-11-30
+2022-05-29,Carbon Killer,ClearBlue,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-100.0,85.5,84.31,119.0,EUR,OTC Clearblue,,,Appendix,,2022-06-03
+2022-06-01,LA CIE DE MATÉRIAUX DE CONSTRUCTION BP CANADA,Elbow River,CCO0,California,JG,Advisory,CAFR5230-A or ACR280 (Forestry),2017,2017,5000.0,18.75,30.58,,USD,OTC Direct,7985.25,,Appendix ,,2022-07-01
+2022-06-03,Pact,Clearblue,VER,Verra,GP,Ifchor,GS7312 (Nigeria Cookstove),2019,2019,-9999.0,10.0,10.0,0.0,USD,OTC Clearblue,,,MISSING,,2022-06-08
+2022-06-09,EKI,ClimeCo,CER,CDM,GP,Trading,CDM6003 (Wind India),2014-2020,2014-2020,239308.0,2.25,,,USD,OTC ClearBlue BtB,,,MISSING,,2022-12-31
+2022-06-09,ClimeCo,EKI,CER,CDM,GP,Trading,CDM6003 (Wind India),2014-2020,2014-2020,-239308.0,2.5,2.25,59827.0,USD,OTC ClearBlue BtB,,,Signed,Yes,2022-12-31
+2022-06-14,NewDay,ClearBlue,VER,VCM,GP,Trading,VCS2307 (Solar Madagascar),2018,2018,-248.0,12.06,9.0,758.43,EUR,OTC ClearBlue,0.0,28-11-22 this has been retired on Verra,,,2022-06-14
+2022-06-14,NewDay,ClearBlue,VER,VCM,GP,Trading,VCS2307 (Solar Madagascar),2018,2018,-752.0,12.06,9.0,2299.77,EUR,OTC ClearBlue,0.0,28-11-22 this has still to be retired on Verra,Signed,,2023-12-31
+2022-06-21,CH4 Solutions LL C,Elbow River,CCO8,California,AA,Advisory,,2021,2021,16986.0,18.0,,,USD,OTC Direct,15287.4,,Signed ,,2022-07-20
+2022-07-13,Carbon Growth,ClearBlue,VER,VCM,GP,Trading,VCS 959 (Uruguay Afforestation),2017,2017,300.0,13.0,,-3900.0,USD,OTC Clearblue,,281122 this has still to be retired on Verra,Signed,Yes,2022-07-20
+2022-07-13,Sustainable,Clearblue,VER,VCM,HN,Trading,VCS2307 (Solar Madagascar),2018,2018,-12.0,15.0,9.0,72.0,USD,OTC Clearblue,0.0,"contract is in GBP, price here is in dolars (13 GBP = 15$)",MISSING,,2022-07-29
+2022-07-13,Sustainable,Clearblue,VER,VCM,HN,Trading,VCS2307 (Solar Madagascar),2018,2018,-13.0,15.0,9.0,78.0,USD,OTC Clearblue,0.0,"contract is in GBP, price here is in dolars (13 GBP = 15$)",MISSING,,2023-12-31
+2022-07-13,Sustainable,Clearblue,VER,VCM,HN,Trading,VCS 959 (Uruguay Afforestation),2017,2017,-4.0,15.0,,30.0,USD,OTC Clearblue,,"contract is in GBP, price here is in dolars (13 GBP = 15$) - they pay for 25 but only retire 4 - we are still long 241",,,2022-07-21
+2022-07-26,Silicium Quebec,Capital Power,CCO0,Quebec,AT,Advisory,,2017,2017,42000.0,18.5,27.1,,USD,OTC ClearBlue,54180.0,,,,2022-08-30
+2022-08-01,Fedex,ClearBlue,VER,VCM,NVB,Advisory,VCS 1941 (India City),2018,2018,-8000.0,6.5,,,USD,OTC Clearblue,12000.0,2812.0001112.00022 this has been retired on Verra,Signed,,2022-08-05
+2022-08-01,EKI,ClearBlue,VER,VCM,GP,Advisory,VCS 1941 (India City),2018,2018,8300.0,6.5,,,USD,OTC Clearblue,,we are long 300 after this trade,Signed,Not yet,2022-08-05
+2022-09-01,Fedex,Anew,VER,CAR,NVB,Advisory,CAR502 (Landfill Gas),2017,2017,9660.0,9.0,,,USD,OTC ClearBlue BtB,14490.0,"No transfer, retirement confirmed",Signed,,2022-09-14
+2022-09-01,Deloitte,,BC Offset Units (BCO),"British Columbia, Canada",FG,Advisory,,,,18886.0,21.0,,,CAD,OTC Clearblue,9443.0,,,,2022-09-14
+2022-09-01,Fedex,Anew,VER,CAR,NVB,Advisory,CAR495 (Landfill Gas),2017,2017,9661.0,9.0,,,USD,OTC ClearBlue BtB,14491.5,"No transfer, retirement confirmed",,,2022-09-14
+2022-08-03,North West Natural,GREAT BEAR CARBON CREDIT LIMITED PARTNERSHIP,BC Offset Units (BCO),"British Columbia, Canada",NVB,Advisory,Great Bear Project - Forestry IFM,2017,2017,275000.0,14.0,,,USD,OTC Clearblue,137500.0,"No transfer, retirement confirmed",,,2022-08-09
+2022-08-04,Ezpada,Climate Partner,VER,GS,GP,Trading,GS7312 (Nigeria Cookstove),2019,2019,4000.0,9.0,,1600.0,EUR,OTC ClearBlue BtB,,we pay Sigma 10 cents commission,,,2022-08-10
+2022-08-04,DuPont,Elbow River,CCA,Quebec,JG,Advisory,,2022,2022,-206000.0,29.25,,,USD,OTC ClearBlue BtB,20600.0,,,,2022-08-08
+2022-08-04,Climate Partner,Ezpada,VER,GS,GP,Trading,GS7312 (Nigeria Cookstove),2019,2019,-4000.0,9.5,,0.0,EUR,OTC ClearBlue BtB,,we pay Sigma 10 cents commission,,,2022-08-10
+2022-07-13,Sustainable,Clearblue,VER,VCM,HN,Trading,VCS 959 (Uruguay Afforestation),2017,2017,-21.0,15.0,,30.0,USD,OTC Clearblue,,"contract is in GBP, price here is in dolars (13 GBP = 15$) - they pay for 25 but only retire 4 - we are still long 241",,,2023-12-31
+2022-08-09,Decarb Connect,Clearblue,VER,VCM,GP,Trading,VCS 959 (Uruguay Afforestation),2017,2017,-55.0,0.0,,0.0,USD,OTC Clearblue,,"Partnership betweeen CBM and Decarb, no invoice/contract",,,2022-08-09
+2022-08-15,CFS,APA,VER,VCM,GP,Trading,VCS 2539 (REDD+ Brazil),2021,2021,-10000.0,11.35,,,USD,OTC Clearblue,,,,,2022-09-15
+2022-08-15,APA,CFS,VER,VCM,GP,Trading,VCS 2539 (REDD+ Brazil),2021,2021,10000.0,11.85,11.35,5000.0,USD,OTC Clearblue,,,,,2022-09-15
+2022-08-16,ACT USA,,RECs,Canada,GP,Advisory,retirement Green-e,2022,2022,12076.0,1.95,,,USD,OTC ClearBlue BtB,,,Signed,,2022-09-15
+2022-08-17,ACT,ClearBlue,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-248.0,93.4,93.4,2254.32,EUR,OTC Clearblue,,,SIgned,,2022-06-03
+2022-09-06,Carbon Killer,ACT,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-250.0,76.0,,250.0,EUR,OTC Clearblue,,,,,2022-09-13
+2022-09-06,ACT,Carbon Killer,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,250.0,75.0,,,EUR,OTC Clearblue,,,Signed ,,2022-09-13
+2022-09-15,Deloitte,,RECs,Canada,GP,Advisory,retirement Green-e,2022,2022,-12076.0,1.95,,,USD,OTC ClearBlue BtB,3019.0,,,,2022-09-15
+2022-09-23,MLF,,RECs,Canada,AA,Advisory,retirement Green-e,2022,2022,-59816.0,1.95,,,USD,OTC ClearBlue BtB,14954.0,,,,2022-09-30
+2022-09-23,ACT USA,,RECs,Canada,GP,Advisory,retirement Green-e,2022,2022,59816.0,1.95,,,USD,OTC ClearBlue BtB,,,,,2022-09-30
+2022-09-28,ArcelorMittal Dofasco ,Ivaco RM,SC,Federal OBPS,AD,Advisory,,2021,2021,691.0,32.0,,,CAD,OTC Clearblue,276.4,,,,2022-10-04
+2022-09-28,Ivaco RM,ArcelorMittal Dofasco,SC,Federal OBPS,AD,Advisory,,2021,2021,691.0,32.0,,,CAD,OTC Clearblue,1000.0,,,,2022-10-04
+2022-09-29,ArcelorMittal Dofasco ,Lehigh Hanson,SC,Federal OBPS,AD,Advisory,,2021,2021,46376.0,35.0,,,CAD,OTC Clearblue,18550.4,,,,2022-10-07
+2022-09-29,Lehigh Hanson,ArcelorMittal Dofasco,SC,Federal OBPS,AD,Advisory,,2021,2021,46376.0,35.0,,,CAD,OTC Clearblue,18550.4,,,,2022-10-07
+2022-09-20,Decarb Connect,Clearblue,VER,VCM,GP,Trading,VCS2307 (Solar Madagascar),2018,2018,-67.0,0.0,9.0,0.0,USD,OTC Clearblue,,"Partnership betweeen CBM and Decarb, no invoice/contract",,,2022-10-13
+2022-11-15,ArcelorMittal Dofasco ,Glencore,SC,Federal OBPS,AD,Advisory,,2019-2021,2019-2021,60217.0,36.6,,,CAD,OTC ClearBlue,24086.8,,,,2022-11-22
+2022-11-15,Glencore,ArcelorMittal Dofasco,SC,Federal OBPS,AD,Advisory,,2019-2021,2019-2021,60217.0,36.6,,,CAD,OTC ClearBlue,12043.4,,,,2022-11-22
+2022-11-23,ArcelorMittal Dofasco ,Gerdau AmeriSteel ,SC,Federal OBPS,AD,Advisory,,2019-2021,2019-2021,7025.0,34.0,,,CAD,OTC ClearBlue,2810.0,,,,2022-11-25
+2022-11-23,Gerdau AmeriSteel,ArcelorMittal Dofasco,SC,Federal OBPS,AD,Advisory,,2019-2021,2019-2021,7025.0,34.0,,,CAD,OTC ClearBlue,2810.0,,,,2022-11-25
+2022-11-23,ArcelorMittal Dofasco ,ARLANXEO Canada Inc.,SC,Federal OBPS,AD,Advisory,,2019-2020,2019-2020,2898.0,35.0,,,CAD,OTC ClearBlue,1159.2,,,,2022-11-30
+2022-11-23,ARLANXEO Canada Inc.,ArcelorMittal Dofasco,SC,Federal OBPS,AD,Advisory,,2019-2020,2019-2020,2898.0,35.0,,,CAD,OTC ClearBlue,1159.2,,,,2022-11-30
+2022-11-21,ArcelorMittal Dofasco ,Alamos Gold Inc,SC,Federal OBPS,AD,Advisory,,2019-2021,2019-2021,35424.0,36.0,,,CAD,OTC ClearBlue,14169.6,,,,2022-12-02
+2022-11-21,Alamos Gold Inc.,ArcelorMittal Dofasco,SC,Federal OBPS,AD,Advisory,,2019-2021,2019-2021,35424.0,36.0,,,CAD,OTC ClearBlue,14169.6,,,,2022-12-02
+2022-11-29,ArcelorMittal Dofasco ,Alamos Gold Inc - Island Gold Mine,SC,Federal OBPS,AD,Advisory,,2020-2021,2020-2021,27197.0,36.0,,,CAD,OTC ClearBlue,10878.8,,,,2022-12-02
+2022-11-29,Alamos Gold Inc - Island Gold Mine,ArcelorMittal Dofasco,SC,,AD,Advisory,,2020-2021,2020-2021,27197.0,36.0,,,CAD,OTC ClearBlue,10878.8,,,,2022-12-02
+2022-12-06,Festo,Clearblue,VER,VCM,HN,Trading,VCS2307 (Solar Madagascar),2018,2018,-72.0,9.25,9.0,18.0,USD,OTC Clearblue,,,,,2022-12-06
+2022-12-01,Lafarge Canada,Stelco,SC,Federal OBPS,AD,Advisory,,2020-2021,2020-2021,11339.0,34.0,,,CAD,OTC ClearBlue,4535.6,,,,2022-12-09
+2022-12-01,Stelco,Lafarge Canada,SC,Federal OBPS,AD,Advisory,,2020-2021,2020-2021,11339.0,34.0,,,CAD,OTC ClearBlue,4535.6,,,,2022-12-09
+2022-12-07,CRH Canada,Algoma Steel,SC,Federal OBPS,AD,Advisory,,2020,2020,14275.0,35.5,,,CAD,OTC ClearBlue,2855.0,,,,2022-12-09
+2022-12-07,Algoma Steel,CRH Canada,SC,Federal OBPS,AD,Advisory,,2020,2020,14275.0,35.5,,,CAD,OTC ClearBlue,5710.0,,,,2022-12-09
+2022-12-07,Ingredion Canada ,Goldcorp Canada,SC,Federal OBPS,AD,Advisory,,2020-2021,2020-2021,29446.0,36.0,,,CAD,OTC ClearBlue,11778.4,,,,2022-12-14
+2022-12-07,Goldcorp Canada ,Ingredion Canada ,SC,Federal OBPS,AD,Advisory,,2020-2021,2020-2021,29446.0,36.0,,,CAD,OTC ClearBlue,11778.4,,,,2022-12-14
+2022-12-08,Agnico Eagle,Mercuria,CCA,Quebec,JG,Advisory,,2018,2018,1000.0,28.0,,,USD,OTC ClearBlue BtB,,,,,2023-01-09
+2022-12-08,Agnico Eagle,Mercuria,GCCO,Quebec,JG,Advisory,,2019,2019,4000.0,18.5,,,USD,OTC ClearBlue BtB,7600.0,,,,2023-01-09
+2022-12-12,ArcelorMittal Dofasco ,Bartek Ingredients,SC,Federal OBPS,AD,Advisory,,2020-2021,2020-2021,4934.0,25.0,,,CAD,OTC ClearBlue,1973.6,,,,2022-12-13
+2022-12-12,Bartek Ingredients ,ArcelorMittal Dofasco,SC,Federal OBPS,AD,Advisory,,2020-2021,2020-2021,4934.0,25.0,,,CAD,OTC ClearBlue,1973.6,,,,2022-12-13
+2022-12-14,Mažeiki? šilumos tinklai,Belektron,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,6000.0,85.4,,,EUR,OTC ClearBlue BtB,,,,,2022-12-16
+2022-12-14,Belektron,Mažeiki? šilumos tinklai,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-6000.0,85.7,,1800.0,EUR,OTC ClearBlue BtB,,,,,2022-12-19
+2022-12-20,Carbon Killer,ACT,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-30.0,92.7,,111.0,EUR,OTC ClearBlue BtB,,,,,2022-12-22
+2022-12-20,ACT,Carbon Killer,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,30.0,89.0,,,EUR,OTC ClearBlue BtB,,,,,2022-12-22
+2022-12-21,Decarb Connect,Clearblue,VER,VCM,HN,Trading,VCS 1941 (India City),2018,2018,-45.0,0.0,,,US,OTC Clearblue,,we are long 255 after this trade,,,2022-12-21
+2023-01-02,ACT,Kauno Stiklas,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-2000.0,80.95,,,EUR,OTC ClearBlue BtB,,,,,2023-01-04
+2023-01-02,Kauno Stiklas,ACT,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,2000.0,81.45,,1000.0,EUR,OTC ClearBlue BtB,,,,,2023-01-04
+2023-01-09,Belektron,Kauno Stiklas,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-2000.0,74.8,,,EUR,OTC ClearBlue BtB,,,,,2023-01-11
+2023-01-09,Kauno Stiklas,Belektron,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,2000.0,75.4,,1200.0,EUR,OTC ClearBlue BtB,,,,,2023-01-11
+2023-01-10,Carbon Killer,ACT,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-100.0,78.77,,100.0,EUR,OTC Clearblue,,,,,2023-01-16
+2023-01-10,ACT,Carbon Killer,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,100.0,79.77,,,EUR,OTC Clearblue,,,,,2023-01-16
+2023-02-20,CFS,Clearblue,VER,VCM,GP,Trading,VCS 674 (Rimba Raya),2016,2016,3000.0,7.87,,,USD,OTC Clearblue,,,,,2023-02-20
+2023-02-20,Come Play Fly Ltd,Clearblue,VER,VCM,GP,Trading,VCS 674 (Rimba Raya),2016,2016,-2937.0,12.75,,12129.81,USD,OTC Clearblue,,,,,2023-02-20
+2023-03-07,Pampa,Climeco,CER,CDM,GP,Advisory,,2014 - 2020,2014 - 2020,500000.0,2.45,,,USD,OTC ClearBlue BtB,104125.0,,,,2023-03-14
+2023-03-20,Nouveau Monde Graphite,ClearBlue,VER,VCM,JG,Trading,VCS 674 (Rimba Raya),2016,2016,-63.0,16.5,,3710.7,USD,OTC Clearblue,,,,,2023-03-25
+2023-03-20,Nouveau Monde Graphite,ClearBlue,VER,VCM,JG,Trading,VCS2307 (Solar Madagascar),2018,2018,-966.0,12.5,9.0,531.3,USD,OTC Clearblue,,,,,2023-03-29
+2023-03-20,Nouveau Monde Graphite,ClearBlue,VER,VCM,JG,Trading,VCS 959 (Uruguay Afforestation),2017,2017,-200.0,15.0,,-588.36,USD,OTC Clearblue,,,,,2023-03-29
+2022-01-08,Agnico Eagle,ClearBlue,CCA,Quebec,JG,Advisory,,2021,2021,6444.0,22.55,,,CAD,OTC ClearBlue BtB,1000.0,,,,2023-08-21
+2023-03-22,DuPont,ACT,RECs,Canada,GP,Advisory,retirement,2022,2022,33.59,1.0,,,USD,OTC ClearBlue BtB,5038.0,,,,2023-04-10
+2023-03-22,ACT,ACT,RECs,Canada,AT,Advisory,retirement,2022,2022,-33.59,1.0,,,USD,OTC ClearBlue BtB,5038.0,,,,2023-04-10
+2023-01-16,Kauno Stiklas,Belektron,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,2000.0,77.0,,1000.0,EUR,OTC ClearBlue BtB,,,,,2023-01-18
+2023-01-16,Belektron,Kauno Stiklas,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-2000.0,76.5,,,EUR,OTC ClearBlue BtB,,,,,2023-01-18
+2023-04-06,ACT,Kauno Stiklas,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,105.0,97.5,,,EUR,OTC ClearBlue BtB,,,,,2023-04-12
+2023-04-06,Kauno Stiklas,ACT,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-105.0,100.0,,262.5,EUR,OTC ClearBlue BtB,,,,,2023-04-12
+2023-03-16,Francis Fuels,,GCCO,Quebec,JG,Advisory,U.S. Forest Projects CAFR6391-A,2020,2020,1400.0,18.95,,,USD,OTC Direct,1000.0,,,,2023-04-30
+2023-02-08,NGL Supply,Elbow River,CCO0,Quebec,JG,Advisory,"2017 – CAFR5206-C US Forest Projects, 2017 – CAFR5230-A US Forest Projects",2017,2017,41500.0,19.25,29.84,,USD,OTC Direct,65923.0,,,,2023-04-30
+2023-02-08,NGL Supply,Elbow River,CCO0,Quebec,JG,Advisory,"2016 – CAFR5281-C US Forest Projects (DEBS), 2018 – CA0D6300-A Ozone Depleting Substances (DEBS)",2016;2018,2016;2018,2500.0,25.25,29.84,,USD,OTC Direct,1721.0,,,,2023-04-30
+2023-02-09,Harnois,Elbow River,CCO0,Quebec,JG,Advisory,Forestry CAFR5206-C,2017,2017,12000.0,26.17,36.04,,CAD,OTC Direct,17765.0,,,,2023-04-30
+2023-10-03,DuPont,Elbow River,GCCO,Quebec,AT,Advisory,MMC CAMM5674-B,2022,2022,35000.0,18.8,29.8,,USD,OTC Direct,57750.0,,,,2023-04-30
+2023-10-03,DuPont,Elbow River,CCA,Quebec,AT,Advisory,,,,-35000.0,29.8,,,USD,OTC Direct,0.0,,,,2023-04-30
+2023-04-13,Varenos Siluma,Belektron,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-4000.0,91.55,,600.0,EUR,OTC ClearBlue BtB,,,,,2023-04-17
+2023-04-13,Belektron,Varenos Siluma,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,4000.0,91.7,,,EUR,OTC ClearBlue BtB,,,,,2023-04-17
+2023-04-19,Western Global,ACT,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,1435.0,93.51,,,EUR,OTC ClearBlue BtB,5000.0,,,,2023-04-24
+2023-04-19,Carbon Killer,ACT,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,100.0,96.0,,249.0,EUR,OTC ClearBlue BtB,,,,,2023-04-24
+2023-04-19,ACT,CK/Western,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-1535.0,93.51,,,EUR,OTC ClearBlue BtB,,,,,2023-04-24
+2023-03-16,Econogas,Elbow River,GCCO,Quebec,JG,Advisory,,,,1500.0,18.95,,,USD,OTC Direct,1000.0,,,,2023-04-21
+2023-04-04,NGL Supply,Elbow River,CCA NS,Nova Scotia,AT,Advisory,,2023,2023,270.0,55.0,,,USD,OTC Direct,1000.0,,,,2023-04-21
+2023-05-01,Carbon Killer,ACT,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,500.0,84.25,,810.0,EUR,OTC ClearBlue BtB,,,,,2023-05-04
+2023-05-01,ACT,Carbon Killer,EUA,EU ETS,GP,Trading,,2021-2030,2021-2030,-500.0,85.87,,,EUR,OTC ClearBlue BtB,,,,,2023-05-04
+2022-09-16,AMPL,RBC,CCO0,Quebec,JG,Advisory,,,,79040.0,20.19,30.51,,USD,OTC Direct,122354.0,,,,2023-04-27
+2022-09-16,AMPL,RBC,CCA,Quebec,JG,Advisory,,,,-52305.0,30.51,,,USD,OTC Direct,0.0,,,,2023-04-27
+2023-04-24,CertainTeed Corp,Capital Power,CCA,California,AT,Advisory,,,,70000.0,30.9,,,USD,OTC Direct,7000.0,,,,2023-05-31
+2023-04-24,CertainTeed Corp,Capital Power,GCCO,California,AT,Advisory,California DEBS,,,3332.0,25.4,,,USD,OTC Direct,3665.0,,,,2023-05-31
+2023-04-24,CertainTeed Corp,Capital Power,GCCO,California,AT,Advisory,,,,11513.0,18.85,,,USD,OTC Direct,27746.0,,,,2023-05-31
+2023-07-18,Global Factor,TAM,CER,CDM,GP,Trading,CDM,,,117980.0,0.75,,17697.0,USD,OTC ClearBlue BtB,,,,,2023-07-25
+2023-07-18,TEM,Global,CER,CDM,GP,Trading,CDM,,,117980.0,0.9,,,USD,OTC ClearBlue BtB,,,,,2023-07-24
+2023-08-10,Geogas,Mitsui,EUA,EU ETS,GP,Trading,,,,10000.0,82.5,,2000.0,EUR,OTC ClearBlue BtB,,,,,2023-08-17
+2023-07-18,Agnico Eagle,Mercuria,CCA,Quebec,AT,Advisory,,2023 or earlier,2023 or earlier,14000.0,33.8,,,USD,OTC Direct,1120.0,,,,2023-07-31
+2023-07-26,Festo,Clearblue,VER,VCM,HN,Trading,VCS2307 (Solar Madagascar),2018,2018,-293.0,15.5,9.0,1904.5,USD,OTC Clearblue,,,,,2023-07-26
+2023-08-09,Rayonier,BP,CCO0,Quebec,AT,Advisory,,2019,2019,35000.0,21.0,,,USD,OTC Direct,78855.0,,,,2023-08-22
+2023-08-15,Arcelor Coteau du Lac,CBM -Elbow River,CCA,Quebec,JG,Advisory,,2023,2023,4000.0,36.3,,,USD,OTC ClearBlue BtB,1000.0,,,,2023-08-15
+2023-08-15,Dupont,Elbow River,CCA,Quebec,JG,Advisory,,2023,2023,200000.0,35.9,,,USD,OTC Direct,20000.0,,,,2023-08-15
+2023-08-16,Greenfield,Elbow River,CCA,Quebec,JG,Advisory,,2023,2023,20000.0,32.75,,,USD,OTC Direct,1200.0,,,,2023-08-29
+2023-08-16,Greenfield,Elbow River,CCA,Quebec,JG,Advisory,,2023,2023,20000.0,33.25,,,USD,OTC Direct,1200.0,,,,2023-11-30
