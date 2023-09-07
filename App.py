@@ -5,7 +5,6 @@ from datetime import date
 #required for building the interactive dashboard
 import numpy as np  # np mean, np random
 import pandas as pd  # read csv, df manipulation
-import plotly.express as px  # interactive charts
 import streamlit as st
 from streamlit.runtime.state import SessionState  # 🎈 data web app development
 from pandas.api.types import (
